@@ -6,4 +6,4 @@ Each color is its own pitch.
 Choose which tiles to sequence.
 Apply moves on the cube while sequencing.
 
-Run Sequencer.py
+Run sequencer.py
